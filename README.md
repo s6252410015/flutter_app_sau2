@@ -1,16 +1,7 @@
 # flutter_app_sau2
 
-A new Flutter project.
+A new Flutter project.Login Screen
 
-## Getting Started
+![Screenshot_2021-09-26-10-30-29-94_649cadd65507dc8ae44bde02b137b34e](https://user-images.githubusercontent.com/69613455/134792429-c6fff1c4-5a70-4bd8-b826-0890d594b21c.jpg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src ="https://user-images.githubusercontent.com/69613455/134792429-c6fff1c4-5a70-4bd8-b826-0890d594b21c.jpg" width = "250">
